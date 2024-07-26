@@ -54,7 +54,7 @@ export default function Pages() {
               href={`${siteConfig.links.github}/src/app${apiPath}/route.ts`}
               target="_blank"
             >
-              source code for this sample Action
+              https://sol-me-a-coffee.vercel.app/
             </Link>
           </Button>{" "}
           on GitHub.
