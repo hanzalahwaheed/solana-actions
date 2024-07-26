@@ -1,0 +1,9 @@
+{
+  "actions": [
+    {
+      "name": "Transfer SOL",
+      "description": "Transfer SOL to your wallet",
+      "target": "/api/transfer-sol"
+    }
+  ]
+}
